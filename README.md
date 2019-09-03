@@ -6,6 +6,6 @@ you can choose batch size, number of epochs, save/load the model and choose some
 This is very rudimentarily put together as I have other things I would like to work on, so is not perfect, but it does work well.
 
 Here is an example of training the MNIST dataset after 5 minutes:
-![training](https://imgur.com/a/Rtz2xb7)
+![training](/training.png)
 
 Thank you for reading :)
